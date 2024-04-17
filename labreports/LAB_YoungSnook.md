@@ -40,8 +40,8 @@ Insert Recorded Screenshots with captions and steps.
 | 2. **Users are busy:** Did this site value your time? For the most part yes | 2 | The site gives a lot for the user to do, if the user were to be new to job searching they could feel they may have to do the extra work that may not be needed. |
 | 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? For the most part yes, the site made it simple and clear for the user to know where to search for jobs and where to apply for them |  2 | The site could have the search bar in a more standout location instead of just the top left corner. |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? yes, the site path gave a clear path of what to do starting from the top left corner where you search for jobs and following down the left giving the user suggestions of what to do next. <img width="946" alt="UX 6" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/ced6c5eb-b927-40d8-917f-bdcaee762ebc"> | 3 |  N/A |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow/navigation of the site? |   |   |
+| 5. **Omit Words:** How careful was this site with its use of copy?  |   |   |
+| 6. **Navigation:** How effective was the workflow/navigation of the site? this site does a good job using the 2/3rd's rule when it comes to workflow and navigation  | 3 |  N/A |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
 | **TOTAL** |   |   |
 
