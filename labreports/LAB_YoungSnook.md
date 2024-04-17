@@ -12,11 +12,12 @@ ___
 - [X] I have forked the repository and created my lab report
 - [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
-![alt text](<UX 1.png>)
-![alt text](<UX 2.png>)
-![alt text](<UX 3.png>)
-![alt text](<UX 4.png>)
-![alt text](<UX 5.png>)
+<img width="443" alt="UX 1" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/eb4779d4-80cc-46ac-bfec-a08366432968">
+<img width="460" alt="UX 2" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/021799e1-5c91-4be5-a8fb-6201982e5225">
+<img width="451" alt="UX 3" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/d6679365-eafb-40a8-899a-5f613849a05b">
+<img width="457" alt="UX 4" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/b208d08b-e5f3-4a7a-a52b-f58d942b2088">
+<img width="457" alt="UX 5" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/16af9dd2-d0fa-463c-a4fe-2f440449edd1">
+
 
 # Step 2: Evaluate Online Job Search Sites
 
