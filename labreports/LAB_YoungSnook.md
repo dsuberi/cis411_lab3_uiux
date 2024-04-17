@@ -36,12 +36,11 @@ Insert Recorded Screenshots with captions and steps.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? The site is farily intuitive with clear directions on were to search for jobs, saved jobs, and other things that may help people searching for jobs <img width="947" alt="UX 7" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/f7f5ddea-73e2-49a0-9673-e8b6ffe461a7">
-<img width="175" alt="UX 9" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/6d724b7b-2501-4648-ab0b-c1cb7dcbb37b">| 2.5 | The site could have the search bar in a more standout location instead of just the top left corner. |
+| 1. **Don't make me think:** How intuitive was this site? The site is farily intuitive with clear directions on were to search for jobs, saved jobs, and other things that may help people searching for jobs <img width="947" alt="UX 7" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/f7f5ddea-73e2-49a0-9673-e8b6ffe461a7"><img width="175" alt="UX 9" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/6d724b7b-2501-4648-ab0b-c1cb7dcbb37b">| 2.5 | The site could have the search bar in a more standout location instead of just the top left corner. |
 | 2. **Users are busy:** Did this site value your time? For the most part yes | 2 | The site gives a lot for the user to do, if the user were to be new to job searching they could feel they may have to do the extra work that may not be needed. |
 | 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? for the most part yes, the site made it simple and clear for the user to know where to search for jobs and were to apply for them |  2 | he site could have the search bar in a more standout location instead of just the top left corner. |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? yes the site path gave a clear path of what to do starting from the top left corner where you search for jobs and following down the left giveing the user suggestions of what to do next. | 3 |  N/A |
-<img width="946" alt="UX 6" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/ced6c5eb-b927-40d8-917f-bdcaee762ebc">
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? yes the site path gave a clear path of what to do starting from the top left corner where you search for jobs and following down the left giveing the user suggestions of what to do next. <img width="946" alt="UX 6" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/ced6c5eb-b927-40d8-917f-bdcaee762ebc"> | 3 |  N/A |
+
 | 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
 | 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
