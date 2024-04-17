@@ -42,7 +42,7 @@ Insert Recorded Screenshots with captions and steps.
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? yes, the site path gave a clear path of what to do starting from the top left corner where you search for jobs and following down the left giving the user suggestions of what to do next. <img width="946" alt="UX 6" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/ced6c5eb-b927-40d8-917f-bdcaee762ebc"> | 3 |  N/A |
 | 5. **Omit Words:** How careful was this site with its use of copy?  |   |   |
 | 6. **Navigation:** How effective was the workflow/navigation of the site? this site does a good job using the 2/3rd's rule when it comes to workflow and navigation  | 3 |  N/A |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? The site is a little busy for a screen reader making it describe what is on the screen in an order that may be challenging for some to understand | 1.5 |  Keeping the page less busy and simpler will help the screen reader give a better description for those that use them. |
 | **TOTAL** |   |   |
 
 ## 2.3 Site 2
