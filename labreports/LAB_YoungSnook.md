@@ -25,7 +25,7 @@ ___
 | Site | Score | Summary |
 |---|---|---|
 | LinkedIn Jobs | 7/10 | simple and minimal (almost too minimal), Searching for jobs is easy but trying to find jobs in specific areas can be a little confusing. |
-| Indeed | 7/10 | Feel to crowded on the homw page when searching for jobs and makes it easy to seach for job titles and locations |
+| Indeed | 7/10 | Feel too crowded on the home page when searching for jobs and makes it easy to search for job titles and locations |
 
 <img width="946" alt="UX 6" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/e6fe0688-95d5-4b95-9923-57359aaff05e">
 <img width="947" alt="UX 7" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/79c5b1b4-7c28-4e3e-859b-1f119b7fb2af">
@@ -55,7 +55,7 @@ Insert Recorded Screenshots with captions and steps.
 | 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
 | 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
+| 6. **Navigation:** How effective was the workflow/navigation of the site? |   |   |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
 | **TOTAL** |   |   |
 
@@ -67,7 +67,7 @@ Insert Recorded Screenshots with captions and steps.
 | Use Case #1 | |
 |---|---|
 | Title | Club Sign up / registration |
-| Description / Steps | One place were students can sign up for all clubs |
+| Description / Steps | One place where students can sign up for all clubs |
 | Primary Actor | College/University Students  |
 | Preconditions | Name, Grade, University/College email, Idea of what club they want to sign up for, Possible questions |
 | Postconditions | Conformation Email |
@@ -78,25 +78,25 @@ List of Competitors
 1. Competitor 1 [Google Forms](https://www.google.com/forms/about/)
 2. Competitor 2 [IMLeagues](https://www.imleagues.com/spa/portal/home)
 
-## Step 3.3 Write a Useability Test
+## Step 3.3 Write a Usability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Get student Name |  Student name is required for identification |
+| 2 | Get Student grade | Student grade is required for identification |
+| 3 | Get student Email | Student Email is required for identification |
+| 4 | Get club name for sign up | Club name is required for signup so the system can check if it is full or not|
+| 5 | Possible questions | Questions are sent to the club after sign-ups, where the club leader will receive questions after new sign-ups and will be able to respond to questions via email.|
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Get student Name | Student responded with there name |
+| 2 | Get Student grade | Student responded with there grade level |
+| 3 | Get student Email | Student Responded with there email |
+| 4 | Get club name for sign up | Student responded with the club they were interested in signing up for |
+| n | Possible questions | Student had no questions for the club |
 
 ## Step 3.5 Findings
 Organize your findings here.
