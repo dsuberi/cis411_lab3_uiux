@@ -3,14 +3,14 @@ ___
 **Course:** CIS 411, Spring 2024  
 **Instructor(s):** [Devi Bhakta Suberi](https://github.com/dsuberi)  
 **Name:** Cheng Eu Sun
-**GitHub Handle:** @chengeu25  
+**GitHub Handle:** @chengeu25 @cdrice26 @garretvan @mdmerlo1
 **Repository:** cis411_lab3_uiux
 **Collaborators:** Garret(?)
 ___
 
 # Step 1: Confirm Lab Setup
-- [/] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [x] I have forked the repository and created my lab report
+- [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
