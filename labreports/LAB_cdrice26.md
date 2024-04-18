@@ -2,7 +2,7 @@
 ___
 **Course:** CIS 411, Spring 2024  
 **Instructor(s):** [Devi Bhakta Suberi](https://github.com/dsuberi)  
-**Name:** Caleb Rice
+**Name:** Caleb Rice<br>
 **GitHub Handle:** [cdrice26](https://github.com/cdrice26)<br>
 **Repository:** [Forked Repository](https://github.com/cdrice26/cis411_lab3_uiux)<br>
 **Collaborators:** Matthew Merlo ([mdmerlo1](https://github.com/mdmerlo1)), Cheng Eu Sun([chengeu25](https://github.com/chengeu25)), Garret Van Dyke([garretvan](https://github.com/garretvan)) (collaboration was for step 3 only)
