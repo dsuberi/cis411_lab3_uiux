@@ -3,9 +3,9 @@ ___
 **Course:** CIS 411, Spring 2024  
 **Instructor(s):** [Devi Bhakta Suberi](https://github.com/dsuberi)  
 **Name:** Cheng Eu Sun
-**GitHub Handle:** @chengeu25 @cdrice26 @garretvan @mdmerlo1
+**GitHub Handle:** @chengeu25 
 **Repository:** cis411_lab3_uiux
-**Collaborators:** Garret(?)
+**Collaborators:** @cdrice26 @garretvan @mdmerlo1
 ___
 
 # Step 1: Confirm Lab Setup
