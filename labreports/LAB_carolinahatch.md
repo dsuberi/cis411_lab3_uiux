@@ -19,7 +19,7 @@ ___
 | Site | Score (Out of 10) | Summary |
 |---|---|---|
 | [Site 1](https://www.linkedin.com/) | 8/10 | LinkedIn is the industry standard for a job searching platform. Not only does it help users find meaningful jobs, it also allows them to connect with one another and build their network. The design is clean, however the screen can often be busy. Additionally, the social aspect of the website can add to the increasing issues of self-image we are seeing with the rise of social media and the need people feel to display themselves as flawless. However, connections formed on LinkedIn often help users find their next position. Overall, LinkedIn is simple to navigate and provides clear information about listed jobs. |
-|[ Site 2](https://www.indeed.com/) | 6/10 | Indeed is another popular job searching platform. The biggest difference between LinkedIn and Indeed is Indeed's lack of networking and connections.   |
+|[ Site 2](https://www.indeed.com/) | 6/10 | Indeed is another popular job searching platform. The biggest difference between LinkedIn and Indeed is Indeed's lack of networking and connections. to While LinkedIn also features pictures, I found Indeed to be busier given the amount of words on each page. While both serve the same purpose, I found LinkedIn to be more intuitive and user-friendly.  |
 
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
@@ -60,7 +60,7 @@ Insert Recorded Screenshots with captions and steps.
 | Description / Steps | |
 | Primary Actor |User |
 | Preconditions |User must be logged in with Messiah email. Clubs must be connected to system  |
-| Postconditions |Sign up confirmation email from GoogleForms |
+| Postconditions |Sign up confirmation email from Microsoft Forms |
 
 ## Step 3.2 Identifier a competitive product
 
@@ -102,11 +102,11 @@ Image 2 of form: ![alt text](image-20.png)
 
 Improvements- 1- better organization of questions, 2- ability for students to sign up for more than one club at a time, 3- Allow clubs to have specific questions for new members, if desired 
 
-Experiences- 1- The form was short and clear, 2- Users are familiar with Google Forms, making it easier to use
+Experiences- 1- The form was short and clear, 2- Users are familiar with Microsoft Forms, making it easier to use
 
 How did team perform conducting test?- Well, we decided what to test and successfully tested it 
 
 How could the team improve?- Better communication and coordination 
 
-Brief statement- Overall we were successful in conducting a usability test. We were able to create version of the club registration system that would be easy to integrate into many different application frameworks. Google Forms are very common, meaning users likely know how to use them, which minimizes the amount of effort our team would need to put into instructions. 
+Brief statement- Overall we were successful in conducting a usability test. We were able to create version of the club registration system that would be easy to integrate into many different application frameworks. Microsoft Forms are very common, meaning users likely know how to use them, which minimizes the amount of effort our team would need to put into instructions. 
 
