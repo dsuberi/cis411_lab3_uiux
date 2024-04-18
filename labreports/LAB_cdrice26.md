@@ -2,15 +2,15 @@
 ___
 **Course:** CIS 411, Spring 2024  
 **Instructor(s):** [Devi Bhakta Suberi](https://github.com/dsuberi)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
-**Collaborators:**   
+**Name:** Caleb Rice
+**GitHub Handle:** [cdrice26](https://github.com/cdrice26)<br>
+**Repository:** [Forked Repository](https://github.com/cdrice26/cis411_lab3_uiux)<br>
+**Collaborators:** Matthew Merlo ([mdmerlo1](https://github.com/mdmerlo1)), Cheng Eu Sun([chengeu25](https://github.com/chengeu25)), Garret Van Dyke([garretvan](https://github.com/garretvan)) (collaboration was for step 3 only)
 ___
 
 # Step 1: Confirm Lab Setup
-- [ y ] I have forked the repository and created my lab report
-- [ y ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [x] I have forked the repository and created my lab report
+- [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
@@ -21,28 +21,26 @@ ___
 | ZipRecruiter | 15    | Very straightforward to use and has a very helpful initial setup process. The UI has a few quirks but they are easy to get used to and the site does a good job filtering jobs and finding ones you're actually interested in. |
 
 ## 2.2 Site 1 - Glassdoor
-Insert Recorded Screenshots with captions and steps.
-
 Creating an account was not a problem. I just clicked "sign in", entered my email and created a password, confirmed it via email, and signed in.
 
-![](../images/preferences.png)
+![](../images/preferences.png)<br>
 Updating job preferences was easy - just put in my location, desired job title, and whether or not I'm willing to work remotely, then upload my resume.
 
-![](../images/results.png)
+![](../images/results.png)<br>
 After searching for a job, they show you 4 jobs and 4 conversations, and you have to click "see all jobs" to filter anything. This is not ideal.
 
-![](../images/all-results.png)
+![](../images/all-results.png)<br>
 After you click "see all jobs" the interface looks promising. There are many filters to choose from and you get a more traditional sidebar with jobs and detailed overviews of each when you click on them.
 
-![](../images/cities.png)
+![](../images/cities.png)<br>
 There is one glaring omission, however...you can only filter by one of a few cities, there is no granular location filter. This is a massive problem as many people are not able to relocate for work.
 
 ![](../images/contactinfo.png)
-![](../images/review.png)
+![](../images/review.png)<br>
 Applying is easy enough. You just click "Easy Apply", fill out your contact information and a few other things, and then send your application straight to the company.
 
 ![](../images/community.png)
-![](../images/info.png)
+![](../images/info.png)<br>
 There is one other major problem...if you return to glassdoor.com by entering the URL after you have created an account, they give a popup saying you should take advantage of their "community" without telling you much about it and then require you to enter more personal information before allowing you to access anything on the site.
 
 | Category                                                                                                    | Grade (0-3) | Comments / Justification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
@@ -57,22 +55,20 @@ There is one other major problem...if you return to glassdoor.com by entering th
 | **TOTAL**                                                                                                   | 11          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ## 2.3 Site 2 - ZipRecruiter
-Insert Recorded Screenshots with captions and steps.
-
 ![](../images/ai.png)
-![](../images/ai-all.png)
+![](../images/ai-all.png)<br>
 ZipRecruiter's sign-up process starts by using an AI chatbot to help you find the type of job you want (you can bypass this process if you so choose). Overall this works well and sets the profile up fairly well.
-![](../images/optionalphone.png)
+![](../images/optionalphone.png)<br>
 ZipRecruiter does ask for your phone number on a separate popup, which is mildly irritating, but it does give you the option to opt-out.
-![](../images/prefs.png)
+![](../images/prefs.png)<br>
 ZipRecruiter also allows you to quickly edit your job preferences as part of the sign-up process.
-![](../images/profile.png)
+![](../images/profile.png)<br>
 ZipRecruiter automatically generates a profile for you based on your resume. As expected with AI, it gets some things wrong, namely it misinterpreted my student leadership position as a job experience and put the description of my actual summer job from last year under that instead of under the actual job. Unfortunately, there is no way to edit the profile right from here.
-![](../images/edit-exp.png)
+![](../images/edit-exp.png)<br>
 However, it is fairly easy to edit your profile after the signup process is complete. You just click on "edit" and make the changes you need to make.
-![](../images/jobs.png)
+![](../images/jobs.png)<br>
 To get to ZipRecruiter's jobs page, simply click "jobs" in the navbar. Their initial page is helpful, with personalized recommendations based on preferences for job type, location, and office type.
-![](../images/search-results.png)
+![](../images/search-results.png)<br>
 Applying for jobs is also straightforward. You just search for what you want, you get recommendations, you can filter by location, and then you click on a job that looks interesting and then click the apply button to go to the employer's website with the listing for the job.
 
 | Category                                                                                                    | Grade (0-3) | Comments / Justification                                                                                                                                                                                                                                                                                                                                               |
@@ -93,37 +89,51 @@ Applying for jobs is also straightforward. You just search for what you want, yo
 
 | Use Case #1         |                                                                                                                                   |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Title               | Make an account                                                                                                                   |
+| Title               | Create and set up an account                                                                                                      |
 | Description / Steps | Click "sign up", enter email and password, confirm, confirm email address, upload a resume and anything else the website asks for |
 | Primary Actor       | The user who is looking for jobs                                                                                                  |
 | Preconditions       | The user needs to be on the website                                                                                               |
 | Postconditions      | The user has an account with skills listed and can start searching for jobs                                                       |
 
-## Step 3.2 Identifier a competitive product
+## Step 3.2 Identify a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. [LinkedIn](https://www.linkedin.com)
+2. [Indeed](https://www.indeed.com)
+3. [Glassdoor](https://www.glassdoor.com)
+4. [Monster](https://www.monster.com)
+5. [ZipRecruiter](https://www.ziprecruiter.com)
 
-## Step 3.3 Write a Useability Test
+## Step 3.3 Write a Usability Test
 
-| Step | Tasks | Notes |
-| ---- | ----- | ----- |
-| 1    |       |       |
-| 2    |       |       |
-| 3    |       |       |
-| ...  |       |       |
-| n    |       |       |
+| Step | Tasks                                                                                          | Notes                    |
+| ---- | ---------------------------------------------------------------------------------------------- | ------------------------ |
+| 1    | Get to the website homepage                                                                    |                          |
+| 2    | Click the button to get an account                                                             |                          |
+| 3    | Enter email and password, and click "sign up" or equivalent                                    | Confirm email if need be |
+| 4    | Go through steps to upload a resume and do anything else necessary before being able to search |                          |
+|      |
 
 ## Step 3.4 Observe User Interactions
 
-| Step | Tasks | Observations |
-| ---- | ----- | ------------ |
-| 1    |       |              |
-| 2    |       |              |
-| 3    |       |              |
-| ...  |       |              |
-| n    |       |              |
+| Step | Tasks                                                                                          | Observations                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ---- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Get to the website homepage                                                                    | Very straightforward, loads fine                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 2    | Click the button to get an account                                                             | No "sign up" button - you have click the button to sign in and then create an account.                                                                                                                                                                                                                                                                                                                                                                           |
+| 3    | Enter email and password, and click "sign up" or equivalent                                    | Signed in with Google which is very straightforward, needed to type in and verify phone number but it took too long to verify the number so he clicked "not now" to bypass it.                                                                                                                                                                                                                                                                                   |
+| 4    | Go through steps to upload a resume and do anything else necessary before being able to search | Asked if he was interested in remote work, his desired salary, his desired job title(s), then it automatically searched for jobs. He was only prompted to upload his resume after trying to apply for a job, and the button to upload a resume did not function, so he had to manually create a profile which was straightforward but tedious to set up. He misinterpreted Level of Education as the name of the university and the form did not throw an error. |
 
 ## Step 3.5 Findings
-Organize your findings here.
+- 3 improvements we believe could be made to the usability of the workflow in question
+  - Make the buttons respond reliably and more quickly
+  - Better form validation (particularly for Level of Education)
+  - Prompt the user to upload a resume and/or fill out skills and experiences before prompting them to search for jobs
+- 2 experiences in the workflow that we believe were of benefit to the user.
+  - Straightforward to use, UI not too complex
+  - Ability to bypass features that are intrusive and/or nonfunctional or just take too much time at the moment
+- What we did well
+  - We got a lot of objective obeservations of the experience
+- What we could do better next time
+  - Have a more focused, smaller use case to test
+  - Be more intentional about asking for feedback on whether the experience was positive or negative
+- Brief statement about our experience conducting a usability test: It was helpful to see the ways in which even well-rated existing solutions can still be improved upon and to identify what people value in an interface. However, it's often hard to test just one thing at a time, and in real life, we would probably be best off doing this on multiple websites with multiple testers, and combine results from all of them.
