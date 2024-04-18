@@ -17,8 +17,8 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Site 1 | Score 1 | Summary 1 |
-| Site 2 | Score 2 | Summary 2 |
+| LinkedIn | Score 1 | I already have an account on the given site |
+| Handshake | Score 2 | I already have an account on the given site |
 
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
@@ -55,37 +55,49 @@ Insert Recorded Screenshots with captions and steps.
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Make an account |
+| Description / Steps | 1. Create username and password 2. Update experiences/certifications/skills 3. Update Biography 3. Make connections|
+| Primary Actor | User looking for jobs |
+| Preconditions | User has to be on the website|
+| Postconditions | User has job experiences, biography, and connections set up|
+
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Indeed [www.indeed.com](https://www.indeed.com/)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Go to website  |   |
+| 2 | Click sign up  |   |
+| 3 | Create username and password  |   |
+| 4 | Upload job experiences and descriptions  |   |
+| 5 | Update biography  |   |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Get to home page  | Typed in the information to get to homepage  |
+| 2 | Click through to make an account  | Noted that it was straightforward so far  |
+| 3 | Signed up for an account  | Had to validate his phone number and noted it "took too long"  |
+| 4 | Put in account information  | Put in the information asked for how much to do things hwo much it costs etc etc |
+| 5 | Click sign up  | Clicked signed up and let him look for jobs, instead of redirecting it searcged for job listings ask for resume after signing up and didn't let him upload his resume  |
 
 ## Step 3.5 Findings
-Organize your findings here.
+- 3 improvements we believe could be made to the usability of the workflow in question
+    1. Make the buttons actually work - Ability to upload resume
+    2. Better level of education validation. ie, confirm with the user what level of education they have (bachelor's? associates?)
+    3. Did not prompt the user to upload resume or fill out job experiences before matching job listings
+- 2 experiences in the workflow that we believe were of benefit to the user.
+    1. Really straightforward and easy to use
+    2. UI not too complex
+- What we did well
+    - We gathered a lot of objective observations
+- What we could do better next time
+    - Having a more focused use case
+- Brief statement about our experience conducting a usability test.
+    - Provided good insights into the intricacies of good UI/UX
