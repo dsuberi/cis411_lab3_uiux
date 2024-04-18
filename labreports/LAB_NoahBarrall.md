@@ -17,11 +17,18 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Site 1 | Score 1 | Summary 1 |
-| Site 2 | Score 2 | Summary 2 |
+| Indeed | Score 1 | Summary 1 |
+| USAJOBS | Score 2 | Summary 2 |
 
 ## 2.2 Site 1
-Insert Recorded Screenshots with captions and steps.
+![](ss1.png)
+This is the starting page that you first open when the site opens. I like how it is laid out, it is simple and easy to find what you need to get started and sign up.
+<br><br><br><br>
+
+
+![](ss2.png)
+
+
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
