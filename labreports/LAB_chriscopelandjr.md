@@ -2,10 +2,11 @@
 ___
 **Course:** CIS 411, Spring 2024  
 **Instructor(s):** [Devi Bhakta Suberi](https://github.com/dsuberi)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
-**Collaborators:**   
+**Name:** [Chris Copeland](https://github.com/chriscopelandjr)  
+**GitHub Handle:** chriscopelandjr
+**Repository:** chriscopelandjr/cis411_lab3_uiux
+**Collaborators:** [Logan Stafford](https://github.com/lstafford0424) ,
+[Ethan Santoro](https://github.com/ethan-santoro) , [Dennis Stambaugh ](https://github.com/DLSIII)
 ___
 
 # Step 1: Confirm Lab Setup
@@ -15,10 +16,10 @@ ___
 # Step 2: Evaluate Online Job Search Sites
 
 ## 2.1 Summary
-| Site | Score | Summary |
+| Site | Score (1-5) | Summary |
 |---|---|---|
-| Site 1 | Score 1 | Summary 1 |
-| Site 2 | Score 2 | Summary 2 |
+| [indeed.com](https://www.indeed.com/) |  | Summary 1 |
+| [theladders.com](https://www.theladders.com/) | Score 2 | Summary 2 |
 
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
