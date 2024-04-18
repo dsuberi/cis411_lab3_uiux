@@ -100,3 +100,4 @@ List of Competitors
 
 ## Step 3.5 Findings
 Organize your findings here.
+N/A use case performed as expected and test users found the system easy to use.
