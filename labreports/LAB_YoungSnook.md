@@ -57,7 +57,7 @@ Insert Recorded Screenshots with captions and steps.
 | 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
 | 6. **Navigation:** How effective was the workflow/navigation of the site?  no the site does not use the 2/3rd's rule instead they use the 1/2 rule which make the webpage like clumped together <img width="947" alt="UX 7" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/79c5b1b4-7c28-4e3e-859b-1f119b7fb2af">| 1 |  space things out |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? the site is decently accessible but can lead to misunderstanding of what the webpage says since the site gets super clumped together | 1.5 | If the website was not as clumped up it could help with screen reading |
-| **TOTAL** |   |   |
+| **TOTAL** | 13 |   |
 
 
 # Step 3 Competitive Usability Test
