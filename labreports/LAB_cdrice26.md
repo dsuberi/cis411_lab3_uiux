@@ -112,7 +112,6 @@ List of Competitors
 | 2    | Click the button to get an account                                                             |                          |
 | 3    | Enter email and password, and click "sign up" or equivalent                                    | Confirm email if need be |
 | 4    | Go through steps to upload a resume and do anything else necessary before being able to search |                          |
-|      |
 
 ## Step 3.4 Observe User Interactions
 
