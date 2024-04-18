@@ -10,7 +10,7 @@ ___
 
 # Step 1: Confirm Lab Setup
 - [X] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 <img width="443" alt="UX 1" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/eb4779d4-80cc-46ac-bfec-a08366432968">
 <img width="460" alt="UX 2" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/021799e1-5c91-4be5-a8fb-6201982e5225">
