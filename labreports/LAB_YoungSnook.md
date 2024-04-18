@@ -55,7 +55,7 @@ Insert Recorded Screenshots with captions and steps.
 | 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? yes, cause it allowed for the user to quickly search the job they wanted | 3  | N/A |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? yes, the site gives a clear search bar for users to search for jobs <img width="655" alt="UX 10" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/1379246b-018a-4de1-bb89-ed5d55788211"> | 2.5 | N/A |
 | 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow/navigation of the site?  no the site does not use the 2/3rd's rule instead they use the 1/2 rule which make the webpage like clumped together <img width="947" alt="UX 7" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/79c5b1b4-7c28-4e3e-859b-1f119b7fb2af">| space things out |   |
+| 6. **Navigation:** How effective was the workflow/navigation of the site?  no the site does not use the 2/3rd's rule instead they use the 1/2 rule which make the webpage like clumped together <img width="947" alt="UX 7" src="https://github.com/YoungSnook/cis411_lab3_uiux/assets/161474744/79c5b1b4-7c28-4e3e-859b-1f119b7fb2af">| 1 |  space things out |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? the site is decently accessible but can lead to misunderstanding of what the webpage says since the site gets super clumped together | 1.5 | If the website was not as clumped up it could help with screen reading |
 | **TOTAL** |   |   |
 
