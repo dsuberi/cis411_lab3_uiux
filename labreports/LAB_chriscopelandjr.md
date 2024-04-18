@@ -18,8 +18,8 @@ ___
 ## 2.1 Summary
 | Site | Score (1-5) | Summary |
 |---|---|---|
-| [indeed.com](https://www.indeed.com/) |  | Summary 1 |
-| [theladders.com](https://www.theladders.com/) | Score 2 | Summary 2 |
+| [indeed.com](https://www.indeed.com/) | 4/5 | The login process was streamlined with sso google capabilities, there was  |
+| [theladders.com](https://www.theladders.com/) | 2/5 | Summary 2 |
 
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
@@ -65,8 +65,9 @@ Insert Recorded Screenshots with captions and steps.
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 [www.awesomesauce.com](
+2. www.awesomesauce.com)
+3. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
 
 ## Step 3.3 Write a Useability Test
 
