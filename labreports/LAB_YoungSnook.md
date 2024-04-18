@@ -5,7 +5,7 @@ ___
 **Name:** Brandan Snook 
 **GitHub Handle:** YoungSnook 
 **Repository:** YoungSnook/cis411_lab3_uiux
-**Collaborators:**   
+**Collaborators:**  CarolinaHatch, NateDS2025, jessDonahoue
 ___
 
 # Step 1: Confirm Lab Setup
