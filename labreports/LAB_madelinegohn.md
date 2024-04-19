@@ -85,11 +85,35 @@ List of Competitors
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | navigate to page | User navigated to site |
+| 2 | click join | User clicked the join button |
+| 3 | enters cell number | User entered their cell number |
+| 4 | clicks continue | User clicked continue |
+| 5 | follows next steps: enter code, preferred name, birthday, gender, show gender | User inputted the code sent to their number, their birthday, gender, and selected that they wanted to show their gender |
+| 6 | select photos | User searched through their photos and selected the ones they liked |
+| 7 | click allow location | User allowed their location to be shown |
+| 8 | click agree button | User clicked the agreement button after reading through what they were agreeing to |
+| 9 | select "bff" | User chose "bff" |
 
 ## Step 3.5 Findings
-Organize your findings here.
+
+### Improvements
+
+| 1 | 2 | 3 |
+|---|---|---|
+|Consolidate personal info sections|Use less words|Find more effective word usage|
+
+### Experiences
+
+| 1 | 2 |
+|---|---|
+|Minimal coloring, cohesive theme|Minimal use of words|
+
+#### Team
+I worked alone. I used my roommate as a tester for my usability test. She thought it was easy to follow and had clear, concise instructions.
+
+#### Next Time
+For next time, it might be smart to add more steps. The usability test was only for creating an account.
+
+#### Brief Statement
+Creating the usability test was interesting. It was challenging to mark down each step in the process to ensure users intuitively followed the directions.
