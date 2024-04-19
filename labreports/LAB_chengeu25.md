@@ -20,8 +20,30 @@ ___
 | LinkedIn | Score 1 | I already have an account on the given site |
 | Handshake | Score 2 | I already have an account on the given site |
 
-## 2.2 Site 1
-Insert Recorded Screenshots with captions and steps.
+## 2.2 Site 1 (LinkedIn)
+1) I have already created an account in advance. The one where I believe I will like.
+2)
+<img width="1440" alt="Screenshot 2024-04-19 at 7 23 32 PM" src="https://github.com/chengeu25/cis411_lab3_uiux/assets/118132703/83ba294b-37bc-4a37-896b-c9d36b9cd052">
+caption: I just had to click on my profile picture at the homepage to access my profile. Very easy and no time was wasted. (URL: https://www.linkedin.com/feed/)
+3) 
+<img width="1440" alt="Screenshot 2024-04-19 at 7 25 15 PM" src="https://github.com/chengeu25/cis411_lab3_uiux/assets/118132703/3c94ac70-cfe9-4acf-a785-20ff65871479">
+caption: This is my profile. I can easily add job experiences, skills, projects, preferred job interests all by clicking on one button - "Add Profile section" (URL: https://www.linkedin.com/in/chengeu2525/)
+4) 
+<img width="1440" alt="Screenshot 2024-04-19 at 7 28 22 PM" src="https://github.com/chengeu25/cis411_lab3_uiux/assets/118132703/a4cd8bad-bf5b-401b-8169-00ae2dffc581">
+caption: This is what the "Add Profile Section" button triggers. As you can see, I can update my profile details based on different categories - Core, Recommended, and Additional which I find very useful and intuitive.
+5)
+<img width="1440" alt="Screenshot 2024-04-19 at 7 31 15 PM" src="https://github.com/chengeu25/cis411_lab3_uiux/assets/118132703/72518142-0b56-4c37-8241-10b6fd33cbf7">
+caption: I can apply for jobs by clicking on the "Jobs" tab, and it brings me to this page. I find this page very useful because I can navigate to the jobs that I have saved, my preferences, and along with other features (URL: https://www.linkedin.com/jobs/)
+6)
+<img width="1440" alt="Screenshot 2024-04-19 at 7 34 04 PM" src="https://github.com/chengeu25/cis411_lab3_uiux/assets/118132703/510cf7c7-2934-48c3-b259-7bf7ae9cc07b">
+caption: this is the page I landed after clicking on the "My Jobs" tab. It displays/lists clearly the jobs I saved. (URL: https://www.linkedin.com/my-items/saved-jobs/?cardType=SAVED)
+7)
+<img width="1440" alt="Screenshot 2024-04-19 at 7 35 15 PM" src="https://github.com/chengeu25/cis411_lab3_uiux/assets/118132703/70928dac-c3be-4070-9bfe-091c9569851b">
+caption: The page I landed after clicking on the "Philadelphia Technology consulting Intern 2025" job listing. And after clicking on the "apply" button, it will redirect me to the job application website for Proviti. Very easy and saves a lot of time (URL: https://www.linkedin.com/jobs/view/3782352751/?refId=af67a95f-aed7-465b-bca5-cc9f24ee7e43&trackingId=ejvf%2BtTMSgWEzG0TLkrF7Q%3D%3D)
+8)
+<img width="1440" alt="Screenshot 2024-04-19 at 7 37 02 PM" src="https://github.com/chengeu25/cis411_lab3_uiux/assets/118132703/aab66ac6-cfb2-4d88-8200-74e22fab142d">
+caption: Job listing on Proviti's website. (URL: https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/PHILADELPHIA/Philadelphia-Technology-Consulting-Intern---2025_JR-251904?source=LinkedIn)
+
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
