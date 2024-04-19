@@ -24,7 +24,7 @@ ___
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
 
-![Log in with sso](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/4d255f20ff1a7883a0c9a93415b07f4f990c8e15/Screenshots/indeed/Screenshot%202024-04-17%20at%2010.28.09%E2%80%AFPM.png)
+![Log in with sso](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/4d255f20ff1a7883a0c9a93415b07f4f990c8e15/Screenshots/indeed/Screenshot%202024-04-17%20at%2010.28.09%E2%80%AFPM.png "Log in with sso")
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
