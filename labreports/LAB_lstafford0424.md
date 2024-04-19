@@ -18,7 +18,7 @@ ___
 | Site | Score | Summary |
 |---|---|---|
 | Indeed (indeed.com) | Score 1 | Summary 1 |
-| Site 2 (theladders.com) | Score 2 | Summary 2 |
+| Ladders (theladders.com) | Score 2 | Summary 2 |
 
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
