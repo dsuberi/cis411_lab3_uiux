@@ -26,8 +26,8 @@ Insert Recorded Screenshots with captions and steps.
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? | 2  | Upon creating an account, you are prompted with fields to input information that helps in the job search (e.g., location, working remote, min. salary, etc.) This allows for a streamlined access to whichever jobs one is looking for. One flaw with how Indeed sets up its job hunting capabilities is that it filters based off of predetermined job titles, which ruled out a few jobs that I would have otherwise looked for. The jobs they do have on their list are still robust, however.  |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
+| 2. **Users are busy:** Did this site value your time?  | 3  | At no point in using Indeed did I feel that I was being marketed some other product or good, nor that there was some ulterior motive in what I was being presented: I was being given a succinct, comprehensible vector for job searching, and it did nothing to extend this process any longer than necessary.  |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 2  | This is intertwined with how intuitive the site is,  |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
 | 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
 | 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
