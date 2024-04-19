@@ -27,11 +27,11 @@ Insert Recorded Screenshots with captions and steps.
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? | 2  | Upon creating an account, you are prompted with fields to input information that helps in the job search (e.g., location, working remote, min. salary, etc.) This allows for a streamlined access to whichever jobs one is looking for. One flaw with how Indeed sets up its job hunting capabilities is that it filters based off of predetermined job titles, which ruled out a few jobs that I would have otherwise looked for. The jobs they do have on their list are still robust, however.  |
 | 2. **Users are busy:** Did this site value your time?  | 3  | At no point in using Indeed did I feel that I was being marketed some other product or good, nor that there was some ulterior motive in what I was being presented: I was being given a succinct, comprehensible vector for job searching, and it did nothing to extend this process any longer than necessary.  |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 2  | This is intertwined with how intuitive the site is, in that the design of the website itself helps to make it overall easier to use.  |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 2  | This is intertwined with how intuitive the site is, in that the design of the website itself helps to make it overall easier to use. The process for going about each step in Indeed's job search methodology was clear and without adulterations, though isn't very large in scope.  |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 2  | Supposing that this means that the site doesn't push you towards an opinionated path, I would say that Indeed does a great job at not pushing you towards one discipline or industry over another, and allows the user to customize their job search experience with relative clarity.  |
 | 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
 | 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 1  | Naturally you can access this website off of a mobile device, but it's clearly optimized for a mouse-and-keyboard computer.  |
 | **TOTAL** |   |   |
 
 ## 2.3 Site 2
