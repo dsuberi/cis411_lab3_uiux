@@ -6,7 +6,7 @@ ___
 **GitHub Handle:** chriscopelandjr
 **Repository:** chriscopelandjr/cis411_lab3_uiux
 **Collaborators:** [Logan Stafford](https://github.com/lstafford0424) ,
-[Ethan Santoro](https://github.com/ethan-santoro) , [Dennis Stambaugh ](https://github.com/DLSIII)
+[Ethan Santoro](https://github.com/ethan-santoro) , [Dennis Stambaugh](https://github.com/DLSIII)
 ___
 
 # Step 1: Confirm Lab Setup
@@ -18,15 +18,17 @@ ___
 ## 2.1 Summary
 | Site | Score (1-5) | Summary |
 |---|---|---|
-| [indeed.com](https://www.indeed.com/) | 4/5 | The login process was streamlined with sso google capabilities, there was  |
-| [theladders.com](https://www.theladders.com/) | 2/5 | Summary 2 |
+| [indeed.com](https://www.indeed.com/) | 4/5 | The login process was streamlined with sso google capabilities, next it asked me if I was an employee or a employer, Then it asked me where I was located and what the minium pay I was looking for and what job I was looking for. I was then presented with a list of jobs and when I clicked the apply button for one of the jobs I was sent to the site of the of the employer. |
+| [theladders.com](https://www.theladders.com/) | 2/5 | The login process also had sso but but the sso integration was not as streamlined as indeed. Next I was asked my name and zip code. Then I was asked what field I wanted to be in for example medical or technology. In the same window you are also asked to select you minium pay and disired job title. On the next page I was asked what my spcialtes where in the technology field.|
 
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
 
+![Log in with sso](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/4d255f20ff1a7883a0c9a93415b07f4f990c8e15/Screenshots/indeed/Screenshot%202024-04-17%20at%2010.28.09%E2%80%AFPM.png)
+
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
+| 1. **Don't make me think:** How intuitive was this site? |  2 |   |
 | 2. **Users are busy:** Did this site value your time?  |   |   |
 | 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
