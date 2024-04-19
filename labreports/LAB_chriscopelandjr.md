@@ -55,17 +55,49 @@ Insert Recorded Screenshots with captions and steps.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |  2 |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 3 | This site is very intuitive it has simple design language that promote the suer for information in clear and concise way. |
+| 2. **Users are busy:** Did this site value your time?  | 2  | This site does a good job of asking only the necessary information and nothing else. The only reason I am giving this site a 2 and not a 3 is because it requires an account in order to simply search job as oppossed to showing the jobs and making you create the account when you want to apply to a job.  |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3  | This site showed me only one step at a time which make it very easy and intutive to sign up. |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3 | The site limited you to only a few options buring the start up process so there was npt many other paths to go down. |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3  | The site was clear and consise with the content of every window. |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 3  | the workflow of the site was very simple and yet it still guided you well thought the process.  |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3  |  This site would work well with a accessible features because it showed you limited information each page and had a minimalistic layout. | |
+| **TOTAL** | 20  | Overall the site seems well designed and thoughtout |
 
 ## 2.3 Site 2
 Insert Recorded Screenshots with captions and steps.
+
+### The first step is specifing the field you want to be in and minium pay along with job title
+
+![Job information](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/aae17a39e2e6b4989c0b9be9b757506b9dd46a3a/Screenshots/ladders/Screenshot%202024-04-17%20at%2010.18.49%E2%80%AFPM.png)
+
+### Next the user is asked to specify your name and zip code
+
+![Name and zip](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/aae17a39e2e6b4989c0b9be9b757506b9dd46a3a/Screenshots/ladders/Screenshot%202024-04-17%20at%2010.19.24%E2%80%AFPM.png)
+
+### Next I am asked to sign up for a ladders premium account
+
+![sign up for ladders premium](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/aae17a39e2e6b4989c0b9be9b757506b9dd46a3a/Screenshots/ladders/Screenshot%202024-04-17%20at%2010.25.44%E2%80%AFPM.png)
+
+### Then I am asked to specify a speciality from a list of specialities in the field I specified
+
+![specify a speciality](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/aae17a39e2e6b4989c0b9be9b757506b9dd46a3a/Screenshots/ladders/Screenshot%202024-04-17%20at%2010.26.16%E2%80%AFPM.png)
+
+### Then I am asked to sign up for ladders premium again.
+
+![sign up for ladders premium](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/aae17a39e2e6b4989c0b9be9b757506b9dd46a3a/Screenshots/ladders/Screenshot%202024-04-17%20at%2010.25.44%E2%80%AFPM.png)
+
+### then I am sked to upload a resume in the form of a .docx file
+
+![uplaod resume](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/aae17a39e2e6b4989c0b9be9b757506b9dd46a3a/Screenshots/ladders/Screenshot%202024-04-17%20at%2010.27.23%E2%80%AFPM.png)
+
+### then I am finally shown a list of jobs
+
+![list of jobs](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/aae17a39e2e6b4989c0b9be9b757506b9dd46a3a/Screenshots/ladders/Screenshot%202024-04-17%20at%2010.27.42%E2%80%AFPM.png)
+
+### when I click apply I am asked again to sign up for ladders premium
+
+![sign up for ladders premium](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/aae17a39e2e6b4989c0b9be9b757506b9dd46a3a/Screenshots/ladders/Screenshot%202024-04-17%20at%2010.25.44%E2%80%AFPM.png)
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
@@ -75,7 +107,7 @@ Insert Recorded Screenshots with captions and steps.
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
 | 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
 | 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
+| 7. **Accessibility:**  How accessible is this site to a screen reader or a mouse-less interface? | 3 |   |
 | **TOTAL** |   |   |
 
 
