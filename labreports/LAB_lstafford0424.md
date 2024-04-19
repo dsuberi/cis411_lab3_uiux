@@ -2,7 +2,7 @@
 ___
 **Course:** CIS 411, Spring 2024  
 **Instructor(s):** [Devi Bhakta Suberi](https://github.com/dsuberi)  
-**Name:** Your Name  
+**Name:** Logan Stafford
 **GitHub Handle:** Your GitHub Handle  
 **Repository:** Your Forked Repository  
 **Collaborators:**   
