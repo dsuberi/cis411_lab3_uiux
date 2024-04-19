@@ -17,11 +17,23 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Indeed (indeed.com) | Score 1 | Summary 1 |
+| Indeed (indeed.com) | 15 | A deservedly popular job search website that is streamlined and simple in its execution of its mission. |
 | Ladders (theladders.com) | Score 2 | Summary 2 |
 
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
+![alt text](image.png)
+Once an account has been created, you will first be prompted with where you would like to work, in addition to whether or not you would like to do remote work.
+![alt text](image-1.png)
+You are then prompted with what is the minimum amount of pay you are willing to work for. Not only can you input what amount you'd like, but you can specify the rate: this helps distinguish between hourly rated jobs and salaried jobs.
+![alt text](image-2.png)
+Next, you input the job titles that you are looking for, pre-selected from job titles that Indeed already has in its system; you can select up to ten job titles.
+![alt text](image-3.png)
+Here is an example of a job that meets the criteria shown in the example: pays at least $75,000/year, is within IT, and is based near Milford, CT.
+![alt text](image-4.png)
+This particular job uses Workday as its means of receiving and processing job applications.
+![alt text](image-5.png)
+This is the first step of the application form once you create or log into your Workday account. Presuming I input everything for my application based off of my resume, all that is left is to confirm your application details and to submit it.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
@@ -29,10 +41,10 @@ Insert Recorded Screenshots with captions and steps.
 | 2. **Users are busy:** Did this site value your time?  | 3  | At no point in using Indeed did I feel that I was being marketed some other product or good, nor that there was some ulterior motive in what I was being presented: I was being given a succinct, comprehensible vector for job searching, and it did nothing to extend this process any longer than necessary.  |
 | 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 2  | This is intertwined with how intuitive the site is, in that the design of the website itself helps to make it overall easier to use. The process for going about each step in Indeed's job search methodology was clear and without adulterations, though isn't very large in scope.  |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 2  | Supposing that this means that the site doesn't push you towards an opinionated path, I would say that Indeed does a great job at not pushing you towards one discipline or industry over another, and allows the user to customize their job search experience with relative clarity.  |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3  | Very little is redundent or unnecessary in the website design for Indeed.  |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 2  | Not difficult at all to find your way around, and was structurally sensible in its layout.  |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 1  | Naturally you can access this website off of a mobile device, but it's clearly optimized for a mouse-and-keyboard computer.  |
-| **TOTAL** |   |   |
+| **TOTAL** | 15  |   |
 
 ## 2.3 Site 2
 Insert Recorded Screenshots with captions and steps.
