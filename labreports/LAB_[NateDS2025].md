@@ -17,21 +17,21 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| [LinkedIn](https://www.linkedin.com/feed/) | 8/10 | LinkedIn is a netwroking platform that is designed for career development, job searching, and business networking. All of users create profiles that resemble their resume. It is a place for users to connect with colleagues, potentail employers, and businesses. It is mainly used for recruitment purposes.  |
-| [Indeed](https://www.indeed.com/) | 5/10 | Indeed is an online job board and employment-realted search engine. Users can search for job opportunities by keyword, location, and other filters. This site provides tools for users to create profiles, upload resumes and manage applicants through it. Employers can also post job openings and manage applicants. Overall, Indeed serves as a resource for job seekers and employers in the recruitment process. |
+| [LinkedIn](https://www.linkedin.com/feed/) | 8/10 | LinkedIn is a networking platform that is designed for career development, job searching, and business networking. All of the users create profiles that resemble their resumes. It is a place for users to connect with colleagues, potential employers, and businesses. It is mainly used for recruitment purposes.  |
+| [Indeed](https://www.indeed.com/) | 5/10 | Indeed is an online job board and employment-related search engine. Users can search for job opportunities by keyword, location, and other filters. This site provides tools for users to create profiles, upload resumes, and manage applicants through it. Employers can also post job openings and manage applicants. Overall, Indeed serves as a resource for job seekers and employers in the recruitment process. |
 
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   2.5 | I thought it was a great way to look at a page. The whole layout of the pages was very understadning. |
-| 2. **Users are busy:** Did this site value your time?  |  3 | I belive that this site really did value my time. I was able to find things very quickly and in a timely manner. |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |  3 | This site really did make the steps and information clear for me. How it did was by explaining clearly what each tab does. |
+| 1. **Don't make me think:** How intuitive was this site? |   2.5 | I thought it was a great way to look at a page. The whole layout of the pages was very understanding. |
+| 2. **Users are busy:** Did this site value your time?  |  3 | I believe that this site really did value my time. I was able to find things very quickly and in a timely manner. |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |  3 | This site really did make the steps and information clear for me. How it did this was by explaining clearly what each tab does. |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |  2 | It did lead me to what I wanted, which was to find a job that was directly for me. |
 | 5. **Omit Words:** How careful was this site with its use of copy? |  2.8 | N/A |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |  3 | Very effective since I was able to navigate through things super easily. |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  3 | I really think it is accessible to both. Probably a little harder for a screen reader, but easy for mouse-less interface. |
+| 6. **Navigation:** How effective was the workflow/navigation of the site? |  3 | Very effective since I was able to navigate through things super easily. |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  3 | I really think it is accessible to both. Probably a little harder for a screen reader, but easy for a mouse-less interface. |
 | **TOTAL** |  19.3 | Overall a really great job search website. |
 
 ## 2.3 Site 2
@@ -40,11 +40,11 @@ Insert Recorded Screenshots with captions and steps.
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? |  1.7 | Not very intuitive. I feel like a lot of stuff is thrown at me. |
-| 2. **Users are busy:** Did this site value your time?  |  2 | I sort of did a good job in valuing my time. Somethings were hard to get through in a timely manner. |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |  2 | I feel like it sort of did make the important steps and information clear. I also felt though that it was hard to see it at times. |
+| 2. **Users are busy:** Did this site value your time?  |  2 | I sort of did a good job of valuing my time. Some things were hard to get through in a timely manner. |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |  2 | I feel like it sort of did make the important steps and information clear. I also felt that it was hard to see it at times. |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |  2.7 | It did lead me to where I wanted to head towards. The only thing is that it was a little hard to navigate. |
 | 5. **Omit Words:** How careful was this site with its use of copy? |  1.9 | N/A |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |  2.5 | Workflow/navigation of this site was understandable decent but not the best. Somethings like the filtering could be fixed a little. |
+| 6. **Navigation:** How effective was the workflow/navigation of the site? |  2.5 | Workflow/navigation of this site was understandable and decent but not the best. Some things like the filtering could be fixed a little. |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  2 | I think it is accessible in a mouse-less interface but not a screen reader interface. I say that because the home page really clutters a lot. |
 | **TOTAL** |  14.8 | The website is a decent job search but could definitely use some fixing. |
 
@@ -67,11 +67,11 @@ List of Competitors
 1. Competitor 1: [Google Forms](https://www.google.com/forms/)
 2. Competitor 2: [IMLeagues](https://www.imleagues.com/spa/portal/home)
 
-## Step 3.3 Write a Useability Test
+## Step 3.3 Write a Usability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 | Get Student Name | The students' name is required for identification |
+| 1 | Get Student Name | The student's name is required for identification |
 | 2 | Get Student Grade Level | The students' grade level is required for identification |
 | 3 | Get Student School Email | The students' school email is required for identification |
 | 4 | Get Club Name for Sign Up | The club name is required for signup so the system can check if it is full or not |
