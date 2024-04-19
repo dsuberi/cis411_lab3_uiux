@@ -3,14 +3,14 @@ ___
 **Course:** CIS 411, Spring 2024  
 **Instructor(s):** [Devi Bhakta Suberi](https://github.com/dsuberi)  
 **Name:** Logan Stafford
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
-**Collaborators:**   
+**GitHub Handle:** lstafford0424
+**Repository:** labreports/LAB_lstafford0424.md 
+**Collaborators:** Chris Copeland (chriscopelandjr), Ethan Santoro (ethan-santoro), Dennis Stambaugh (DLSIII)
 ___
 
 # Step 1: Confirm Lab Setup
-- [ ] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [X] I have forked the repository and created my lab report
+- [X] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
