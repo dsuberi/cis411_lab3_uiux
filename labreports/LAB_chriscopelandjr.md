@@ -24,7 +24,34 @@ ___
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
 
-![Log in with sso](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/4d255f20ff1a7883a0c9a93415b07f4f990c8e15/Screenshots/indeed/Screenshot%202024-04-17%20at%2010.28.09%E2%80%AFPM.png "Log in with sso")
+The first step is too log in with sso
+
+![Log in with sso](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/4d255f20ff1a7883a0c9a93415b07f4f990c8e15/Screenshots/indeed/Screenshot%202024-04-17%20at%2010.28.09%E2%80%AFPM.png)
+
+next you will specify if you are an employer or an employee
+
+![employer or employee](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/aae17a39e2e6b4989c0b9be9b757506b9dd46a3a/Screenshots/indeed/Screenshot%202024-04-17%20at%2010.28.31%E2%80%AFPM.png)
+
+next I you asked to specify your location with a zip code and a city/state
+
+![specicfy location](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/aae17a39e2e6b4989c0b9be9b757506b9dd46a3a/Screenshots/indeed/Screenshot%202024-04-17%20at%2010.28.51%E2%80%AFPM.png)
+
+Then the minium pay
+
+![Miniumm Pay](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/aae17a39e2e6b4989c0b9be9b757506b9dd46a3a/Screenshots/indeed/Screenshot%202024-04-17%20at%2010.29.08%E2%80%AFPM.png)
+
+next the desired job title
+
+![desired job title](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/aae17a39e2e6b4989c0b9be9b757506b9dd46a3a/Screenshots/indeed/Screenshot%202024-04-17%20at%2010.29.43%E2%80%AFPM.png)
+
+then a list of jobs is displayed
+
+![list of jobs](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/aae17a39e2e6b4989c0b9be9b757506b9dd46a3a/Screenshots/indeed/Screenshot%202024-04-17%20at%2010.31.50%E2%80%AFPM.png)
+
+once you click apply you are sent to the employers site
+
+![employers site](https://github.com/chriscopelandjr/cis411_lab3_uiux/blob/aae17a39e2e6b4989c0b9be9b757506b9dd46a3a/Screenshots/indeed/Screenshot%202024-04-17%20at%2010.31.58%E2%80%AFPM.png)
+
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
