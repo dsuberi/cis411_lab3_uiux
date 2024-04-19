@@ -55,17 +55,18 @@ Insert Recorded Screenshots with captions and steps.
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title: View 8 Semester Plan | |
+| Description: Registered Computer Science student views the assigned 8 semester plan based on their major/concentration/minor | |
+| Actor: Student | |
+| Preconditions: Student registered in Computer Science, Classes checked for approval on plan| |
+| Postconditions: Student saves edited plan to database, Student emails new plan to advisor | |
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 [Degreeworks]([www.awesomesauce.com](https://degreeworks-c.messiah.edu:8441/worksheets/WEB31))
+2. Competitor 2 [The View](https://ssb8c.messiah.edu/ssb8/mc_schdlist.P_Schedule_List_Init?TERM_IN=200810)
+3. Competitor 3 [Ellucian](https://ssb-regc.messiah.edu/StudentRegistrationSsb/ssb/registration)
 
 ## Step 3.3 Write a Useability Test
 
