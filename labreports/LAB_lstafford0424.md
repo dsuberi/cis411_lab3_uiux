@@ -116,11 +116,11 @@ List of Competitors
 |---|---|---|
 | 1 | Define Objectives   | Participant verbalized understanding of the importance of setting objectives. They suggested objectives such as understanding the software's purpose, assessing its user-friendliness, and identifying any potential areas for improvement.  |
 | 2 | Select Users  | Participant understood the requirement for users who haven't used the software before. They mentioned the importance of unbiased feedback from fresh users.  |
-| 3 | Create the Test  |   |
-| 4 | Conduct the Test  |   |
-| 5 | Organize Feedback  |   |
-| 6 | Report Findings  |   |
-| 7 | Improve Software  |   |
+| 3 | Create the Test  | Participant created a scenario involving typical user tasks, such as navigating through different features, performing specific actions, and evaluating the software's response time.  |
+| 4 | Conduct the Test  | Participant interacted with the software as instructed. They explored various features and attempted to accomplish the tasks assigned to them.  |
+| 5 | Organize Feedback  | Participant provided feedback on their experience with the software. They mentioned finding certain features intuitive and easy to use, while others were slightly confusing or time-consuming to figure out.  |
+| 6 | Report Findings  | Participant documented their feedback for evaluation purposes. They noted common issues encountered during the test and suggested improvements.  |
+| 7 | Improve Software  | Participant suggested making changes based on the feedback received. They emphasized the importance of addressing usability issues to enhance the overall user experience.  |
 
 
 
