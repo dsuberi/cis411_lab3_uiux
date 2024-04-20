@@ -48,17 +48,31 @@ This is the first step of the application form once you create or log into your 
 
 ## 2.3 Site 2
 Insert Recorded Screenshots with captions and steps.
+![alt text](image-6.png)
+This is the home page for Ladders. The majority of the front page is taken up by the sign-in window, which prompts you about your current job, and what you are looking for: this is the first flaw in its design. By presuming ahead of time you were previously employed (with a salary, no less), it seems like unnecessary information for your current job search.
+![alt text](image-7.png)
+Clicking the "sign up" button will open a window that asks for the same information that the homepage already has.
+![alt text](image-8.png)
+Here is some sample information put into the fields.
+![alt text](image-9.png)
+Here it asks for your first and last name, plus your zip code. I used mine here as an example.
+![alt text](image-10.png)
+Finally, it asks for your email and a password to create an account.
+![alt text](image-11.png)
+Immediately after finishing creating 
+![alt text](image-12.png)
+asdf
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 1  |   |
+| 2. **Users are busy:** Did this site value your time?  | 0  |   |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 1  |   |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 2  |   |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 1  |   |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 0  |   |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 0  |   |
+| **TOTAL** | 5  |   |
 
 
 # Step 3 Competitive Usability Test
@@ -67,27 +81,34 @@ Insert Recorded Screenshots with captions and steps.
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Interaction with Interface |
+| Description / Steps | This Use Case demonstrates the different functions that the user can perform when interacting with the system. [UC:01] The user may type a prompt into the "chat" box. [UC:02] The user may upload their own API for a custom AI. [UC:03] The user may filter results based on the different responses from the AIs. [UC:04] The user may add additional AIs to their interface. [UC:05] The user may remove an AI from the interface. |
+| Primary Actor | User |
+| Preconditions | Assume that the user has logged into the application. |
+| Postconditions | The user may view all of the different outputs from each AI simultaneously. |
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. ChatGPT [https://chat.openai.com/](https://chat.openai.com/)
+2. Microsoft CoPilot [https://copilot.microsoft.com/](https://copilot.microsoft.com/)
+3. GPT4all [https://gpt4all.io/index.html](https://gpt4all.io/index.html)
+4. ChatGot [https://www.chatgot.io/](https://www.chatgot.io/)
+5. GitHub CoPilot [https://github.com/features/copilot](https://github.com/features/copilot)
+6. Chatsonic [https://writesonic.com/chat](https://writesonic.com/chat)
+7. Devin [https://www.cognition-labs.com/introducing-devin](https://www.cognition-labs.com/introducing-devin)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Define objectives | Creating objectives for the test is necessary in order to define what needs to be accomplished.  |
+| 2 | Select users | Users must not have been exposed to the software prior to testing. |
+| 3 | Create the test scenario | The test must be prepared in advance in order to evaluate its strengths and weaknesses. |
+| 4 | Conduct the test  | Self-explanatory; allow users to interact with the software. |
+| 5 | Organize feedback | Gather feedback from the users. Was the software easy to use? Was it intuitive? Was it time consuming? |
+| 5 | Report findings | Document all feedback for evaluation; check to see if any common issues occurred. |
+| 6 | Improve software | Make necessary changes based on user feedback. |
 
 ## Step 3.4 Observe User Interactions
 
@@ -101,3 +122,9 @@ List of Competitors
 
 ## Step 3.5 Findings
 Organize your findings here.
+
+* Provide at least 3 improvements you believe could be made to the usability of the workflow in question.
+* Outline at least 2 experiences in the workflow that you believe were of benefit to the user.
+* What do you believe your team did well in conducting the usability test?
+* What could your team improve for next time (hint: there will be a next time)?
+* Offer a brief statement (no more than several sentences) about your experience conducting a usability test.
