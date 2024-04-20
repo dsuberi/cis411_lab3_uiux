@@ -17,8 +17,8 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| LinkedIn | Score 1 | I already have an account on the given site |
-| Handshake | Score 2 | I already have an account on the given site |
+| LinkedIn | 21 | Very Good - best job search site out there |
+| Handshake | 16.8 | Good - second to LinkedIn |
 
 ## 2.2 Site 1 (LinkedIn)
 1) I have already created an account in advance. The one where I believe I will like.
