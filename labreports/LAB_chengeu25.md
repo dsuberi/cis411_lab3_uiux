@@ -18,7 +18,7 @@ ___
 | Site | Score | Summary |
 |---|---|---|
 | LinkedIn | 21 | Very Good - best job search site out there |
-| Handshake | 16.8 | Good - second to LinkedIn |
+| Handshake | 19.8 | Good - second to LinkedIn |
 
 ## 2.2 Site 1 (LinkedIn)
 1) I have already created an account in advance. The one where I believe I will like.
@@ -104,7 +104,7 @@ caption: Handshake need to do a better job in dynamically updating job listing t
 | 5. **Omit Words:** How careful was this site with its use of copy? | 3  |   |
 | 6. **Navigation:** How effective was the workflow / navigation of the site? |  2.9 |   |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3  |   |
-| **TOTAL** | 16.8  |   |
+| **TOTAL** | 19.8  |   |
 
 
 # Step 3 Competitive Usability Test
