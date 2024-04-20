@@ -137,11 +137,11 @@ Organize your findings here.
   2) Discovering Shortcuts: Users were delighted when they discovered hidden shortcuts or features that expedited their workflow, enhancing their overall satisfaction and productivity.
 
 * What do you believe your team did well in conducting the usability test?
-  1) Clear Objectives: The team effectively defined clear objectives for the usability test, ensuring that the focus remained on evaluating specific aspects of the software's usability.
-  2) User-Centric Approach: The team successfully adopted a user-centric approach, allowing participants to interact with the software organically and providing valuable feedback based on their experiences.
+  1) Clear Objectives: I believe we effectively defined clear objectives for the usability test, ensuring that the focus remained on evaluating specific aspects of the software's usability.
+  2) User-Centric Approach: We successfully adopted a user-centric approach, allowing participants to interact with the software organically and providing valuable feedback based on their experiences.
 
 * What could your team improve for next time (hint: there will be a next time)?
-  1) Diversify User Pool: In the future, the team could aim to include a more diverse pool of users with varying levels of expertise and backgrounds to obtain a broader range of feedback.
+  1) Diversify User Pool: In the future, we should aim to include a more diverse pool of users with varying levels of expertise and backgrounds to obtain a broader range of feedback.
    2) Standardize Testing Procedures: Establishing standardized testing procedures and protocols can ensure consistency across multiple usability tests and facilitate more accurate comparisons of results.
 
 * Offer a brief statement (no more than several sentences) about your experience conducting a usability test.
