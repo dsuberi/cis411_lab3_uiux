@@ -65,13 +65,13 @@ asdf
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? | 1  |   |
-| 2. **Users are busy:** Did this site value your time?  | 0  |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 1  |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 2  |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? | 1  |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? | 0  |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 0  |   |
+| 1. **Don't make me think:** How intuitive was this site? | 1  | The format for how you actually input what you want for your parameters for jobs is jarring and requires previous experience to fill out in the field, which presumes you've already worked a salaried job.  |
+| 2. **Users are busy:** Did this site value your time?  | 0  | This site was very clearly trying to advertise its "premium" service instead of actually listing jobs, and it definitely got in the way of actually using its services.s  |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 1  | The initial account set-up lets you set relatively clear parameters, but from there it gets less easy to navigate.  |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 2  | Surprisingly, Ladders is pretty open-ended with the job positions you wish to pursue, but obviously this search is hampered by other insufficiencies.  |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 1  | The site continues to refer you back to the purchase screen for the premium service without being prompted, which greatly disrupts the whole process.  |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 0  | Because of the reoccurring premium purchase screen, the workflow was jarring and constantly fighting against you.  |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 0  | The site is barely useable upon account creation / log-in even on a normal computer, using a mobile device would be even worse.  |
 | **TOTAL** | 5  |   |
 
 
@@ -107,18 +107,22 @@ List of Competitors
 | 3 | Create the test scenario | The test must be prepared in advance in order to evaluate its strengths and weaknesses. |
 | 4 | Conduct the test  | Self-explanatory; allow users to interact with the software. |
 | 5 | Organize feedback | Gather feedback from the users. Was the software easy to use? Was it intuitive? Was it time consuming? |
-| 5 | Report findings | Document all feedback for evaluation; check to see if any common issues occurred. |
-| 6 | Improve software | Make necessary changes based on user feedback. |
+| 6 | Report findings | Document all feedback for evaluation; check to see if any common issues occurred. |
+| 7 | Improve software | Make necessary changes based on user feedback. |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Define Objectives   |   |
+| 2 | Select Users  |   |
+| 3 | Create the Test  |   |
+| 4 | Conduct the Test  |   |
+| 5 | Organize Feedback  |   |
+| 6 | Report Findings  |   |
+| 7 | Improve Software  |   |
+
+
 
 ## Step 3.5 Findings
 Organize your findings here.
