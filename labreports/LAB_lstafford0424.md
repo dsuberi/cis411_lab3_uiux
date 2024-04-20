@@ -128,7 +128,21 @@ List of Competitors
 Organize your findings here.
 
 * Provide at least 3 improvements you believe could be made to the usability of the workflow in question.
+  1) Simplify Navigation: Streamlining the navigation process by reorganizing menus and categorizing features more intuitively can reduce user confusion and frustration.
+  2) Enhance Onboarding Process: Implementing a guided onboarding tutorial or interactive walkthroughs for new users can help familiarize them with the software's interface and functionalities.
+  3) Improve Feedback Mechanism: Enhancing the feedback mechanism by providing clearer error messages, tooltips, and prompts can assist users in understanding their actions and resolving issues more efficiently.
+
 * Outline at least 2 experiences in the workflow that you believe were of benefit to the user.
+  1) Prompt Responses: The software's prompt response to user actions positively impacted the user experience, increasing efficiency and reducing wait times.
+  2) Discovering Shortcuts: Users were delighted when they discovered hidden shortcuts or features that expedited their workflow, enhancing their overall satisfaction and productivity.
+
 * What do you believe your team did well in conducting the usability test?
+  1) Clear Objectives: The team effectively defined clear objectives for the usability test, ensuring that the focus remained on evaluating specific aspects of the software's usability.
+  2) User-Centric Approach: The team successfully adopted a user-centric approach, allowing participants to interact with the software organically and providing valuable feedback based on their experiences.
+
 * What could your team improve for next time (hint: there will be a next time)?
+  1) Diversify User Pool: In the future, the team could aim to include a more diverse pool of users with varying levels of expertise and backgrounds to obtain a broader range of feedback.
+   2) Standardize Testing Procedures: Establishing standardized testing procedures and protocols can ensure consistency across multiple usability tests and facilitate more accurate comparisons of results.
+
 * Offer a brief statement (no more than several sentences) about your experience conducting a usability test.
+    1) Conducting the usability test was an insightful experience that highlighted the importance of understanding the user's perspective in evaluating software usability. Engaging with participants and observing their interactions with the software provided valuable insights that will inform future iterations and improvements.
