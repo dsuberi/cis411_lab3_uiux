@@ -25,8 +25,6 @@ ___
 ## Create account on Indeed
 ![](images/ss1.png)
 This is the starting page that you first open when the site opens. I like how it is laid out, it is simple and easy to find what you need to get started and sign up.
-<br><br><br>
-
 
 ![](images/ss2.png)
 Here is the sign in page. It gives 3 options, either to give your email address, continue with google or apple. 
@@ -153,26 +151,49 @@ List of Competitors
 1. Competitor 1 [Degreeworks]([www.awesomesauce.com](https://degreeworks-c.messiah.edu:8441/worksheets/WEB31))
 2. Competitor 2 [The View](https://ssb8c.messiah.edu/ssb8/mc_schdlist.P_Schedule_List_Init?TERM_IN=200810)
 3. Competitor 3 [Ellucian](https://ssb-regc.messiah.edu/StudentRegistrationSsb/ssb/registration)
+4. Comptitor 4 [8 Sem Plan Messiah](https://www.messiah.edu/download/downloads/id/6041/2018_Advising_handbook_III_CIS.pdf)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Log on to system with Messiah Credentials  | Will be prompted when first opening the page  |
+| 2 | Navigate to 8 Semester Planner Tab | Button on top of page  |
+| 3 | Hit Edit Button on 8 Semester Planner  |   |
+| 4 | Edit planner to desired Major/Concentration/Minor  |   |
+| 5 | Save New Plan  | Button in bottom right  |
+| 6 | Student emails new plan to advisor from site  | Will be a button that says share  |
+
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Log on to system with Messiah Credentials  | Participant opens site and immediately has to log with Messiah credentials. They said it was exactly as they expected it to be. The user was successful with this, as it is as simple as opening the site and that is the first thing you are prompted for.  |
+| 2 | Navigate to 8 Semester Planner Tab  | Participant naviagtes to 8 Sem Planner tab on the top of the screen. They said it was exactly as they expected, as it is simple on the page. Yes, they were successful in finding this tab. The participant was suprised that it was that easy to find.   |
+| 3 | Hit Edit Button on 8 Semester Planner  | Participant navigates to button on top left that says "Edit". They said the button it was super easy to find and navigate to. They said that they were suprised how easy it was to find the button. The basic steps they took were just clicking on the button and then it brings up the editing interface. Yes they were successful in finding the button.   |
+| 4 | Edit planner to desired Major/Concentration/Minor  | The participant then is brought to the editing interface after clicking the edit button. They can then edit the plan to their preference. They were successful after a little bit of explaining on how the interface works. The participant was a little frustrated on not being able to completely understand the interface but after a few minutes they were able to figure it out and was just fine.   |
+| 5 | Save New Plan  | The participant then will click the save button. They said they expected it to be much harder to save the plan but it was just one click of a button. They were successful in finding the save button, and they were not frustrated at all.   |
+| 6 | Student emails new plan to advisor from site  | The final step is that the participant clicked the share button and entered their advisors email to share to them. The user was a little frustrated because they had to search for their advisors email. But overall they liked that there was a share button that you could send right to your advisor with the updated plan.  |
+
 
 ## Step 3.5 Findings
-Organize your findings here.
+I think 3 improvements for my workflow could be:
+- Making the editing interface easier to use
+- Providing suggested advisors emails
+- Providing suggested classes to take during certain semesters
+
+2 improvements that were beneficial to the user:
+- Easy to find tab at the top of the page
+- Automatically logs you in with Messiah credentials before the page even opens
+
+What do you believe your team did well in conducting the usability test?
+- Making the whole thing easy for the user to navigate
+- Super easy for the user to save and send to advisor
+
+What could your team improve for next time?
+- Making the interface for the editing be either more user friendly or have a built in walk-through
+- Explaining what is going on to the user a little more and maybe a small walk-through
+
+Offer a brief statement about your experience conducting a usability test.
+- I thought this experience was definitely challenging. Explaining to the user the actions they should be taking without actually telling them what to do was a difficult task. I think next time we should maybe make the usability test a little bit more in depth.
