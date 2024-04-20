@@ -37,13 +37,14 @@ Insert Recorded Screenshots with captions and steps.
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  3 | Mobile application works fine.  |
 | **TOTAL** | 12  | Good place to browse jobs.  |
 
- ![alt text](<Screenshot 2024-04-19 210714.png>) 1. Initial homepage
+![Screenshot 2024-04-19 210714](https://github.com/jessDonahoue/cis411_lab3_uiux/assets/156804462/195d75dc-c07e-403a-b3d0-1f1fa31f3243) 1. Initial homepage
 
-![alt text](<Screenshot 2024-04-19 210737.png>) 2. Checks job location is ok with user
+![Screenshot 2024-04-19 210737](https://github.com/jessDonahoue/cis411_lab3_uiux/assets/156804462/ad079543-ec91-43fc-9235-ef926f4a6439) 2. Checks job location is ok with user
 
-![alt text](<Screenshot 2024-04-19 210746.png>) 3. If yes, choose resume to use
+![Screenshot 2024-04-19 210746](https://github.com/jessDonahoue/cis411_lab3_uiux/assets/156804462/b2e12f61-e5f3-4165-b483-f8a2af139dfa) 3. If yes, choose resume to use
 
-![alt text](<Screenshot 2024-04-19 210814.png>) 4. Answer employer questions and submit
+![Screenshot 2024-04-19 210814](https://github.com/jessDonahoue/cis411_lab3_uiux/assets/156804462/0a9fe69f-48ef-435a-b11d-2a1cf5ef9033) 4. Answer employer questions and submit
+
 ## 2.3 Site 2
 Insert Recorded Screenshots with captions and steps.
 
@@ -58,13 +59,13 @@ Insert Recorded Screenshots with captions and steps.
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3  | Mobile app works fine.  |
 | **TOTAL** |  14 | Better for people who want to pay for subscription.  |
 
-![alt text](L1.png) 1. Initial homepage 
+![L1](https://github.com/jessDonahoue/cis411_lab3_uiux/assets/156804462/f8088d3d-d42e-41ff-bbd3-9cb3bfada3c8) 1. Initial homepage 
 
-![alt text](L2.png) 2. Find job and click apply
+![L2](https://github.com/jessDonahoue/cis411_lab3_uiux/assets/156804462/40701204-d0e0-493d-ac83-e483a2de862e) 2. Find job and click apply
 
-![alt text](L3.png) 3. Warning pops up when going to external site
+![L3](https://github.com/jessDonahoue/cis411_lab3_uiux/assets/156804462/330a4891-8c68-4a9d-a5e3-20c2f51a42d8) 3. Warning pops up when going to external site
 
-![alt text](<Screenshot 2024-04-19 211307.png>) 4. Taken to employer site to apply
+![Screenshot 2024-04-19 211307](https://github.com/jessDonahoue/cis411_lab3_uiux/assets/156804462/1f4289ee-e490-43df-95b9-8ecd55cb2342) 4. Taken to employer site to apply
 
 
 # Step 3 Competitive Usability Test
