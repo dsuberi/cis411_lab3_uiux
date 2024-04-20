@@ -59,7 +59,7 @@ Insert Recorded Screenshots with captions and steps.
 | 2. **Users are busy:** Did this site value your time?  | 2  | This site does a good job of asking only the necessary information and nothing else. The only reason I am giving this site a 2 and not a 3 is because it requires an account in order to simply search job as oppossed to showing the jobs and making you create the account when you want to apply to a job.  |
 | 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3  | This site showed me only one step at a time which make it very easy and intutive to sign up. |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3 | The site limited you to only a few options buring the start up process so there was npt many other paths to go down. |
-| 5. **Omit Words:** How careful was this site with its use of copy? | 3  | The site was clear and consise with the content of every window. |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3  | The site was clear and consise with the copy content on every window explaining things like privicay settings. |
 | 6. **Navigation:** How effective was the workflow / navigation of the site? | 3  | the workflow of the site was very simple and yet it still guided you well thought the process.  |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3  |  This site would work well with a accessible features because it showed you limited information each page and had a minimalistic layout. | |
 | **TOTAL** | 20  | Overall the site seems well designed and thoughtout |
@@ -101,14 +101,14 @@ Insert Recorded Screenshots with captions and steps.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:**  How accessible is this site to a screen reader or a mouse-less interface? | 3 |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 2 | This site is intuitive but as soon as the ad for ladders premiu is diplayed it is very unclear how to exit the ad. This is means you must search the web page in order to find the intentiaonly small exit button. |
+| 2. **Users are busy:** Did this site value your time?  | 1 | This site does not value your time becuase it shows you the same ladders premium ad 3 times before you apply for a job. |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 1 | becuase you where prompted with the ladders premium ad so many time it was unclear what was and was not included with the free tier and weather the premium membership was required. |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3 | This site did lead me towards a specific path but that path was pay for there product as opposed to  |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 1 | This has limited copy and didn't really give many instructions to the user. |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 2 | This site was easy to navigate until you where presented with the ladders premium advertisment then it became almost overwellming to navigate. |
+| 7. **Accessibility:**  How accessible is this site to a screen reader or a mouse-less interface? | 1 | This site would have been awful to use with a screenreader becuase the advisement for ladders premium would have been very difficult to get out of.  |
+| **TOTAL** | 11 | Overall this site could have been so much easier to use if it did not have have such agresive advertising for ladders premium. |
 
 
 # Step 3 Competitive Usability Test
@@ -126,9 +126,14 @@ Insert Recorded Screenshots with captions and steps.
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](
-2. www.awesomesauce.com)
-3. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1.  [ChatGPT](https://chat.openai.com/)
+2.  [Microsoft CoPilot](https://copilot.microsoft.com/)
+3.  [GPT4all](https://gpt4all.io/index.html)
+4.  [ChatGot](https://www.chatgot.io/)
+5.  [GitHub Copilot](https://github.com/features/copilot)
+6.  [Chatsonic](https://writesonic.com/chat)
+7.  [Devin](https://www.cognition-labs.com/introducing-devin)
+   
 
 ## Step 3.3 Write a Useability Test
 
