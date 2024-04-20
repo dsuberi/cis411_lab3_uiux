@@ -55,37 +55,57 @@ Insert Recorded Screenshots with captions and steps.
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Create An Account |
+| Description / Steps | Creating a verified student own account and setting up your profile
+1. Setting up a username and password, then entering in your email.
+2. Getting verified with a verification link sent to your student email.
+3. Creating an account with a picture, tags to find people with similiar interest, and filling out information about yourself. |
+| Primary Actor | Customer |
+| Preconditions | 1. Downloading the app and opening it |
+| Postconditions | 2. Account is added to large database and list of most compatible for other students to find. |
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [Bumble](https://bumble.com)
-2. Competitor 2 [ZeeMee](https://www.zeemee.com)
+1. [Bumble](https://bumble.com)
+2. [ZeeMee](https://www.zeemee.com)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Create a Verified Account  |  To test and see if the user can easily create an account |
+| 2 | Create a Profile  | Easy to make account with all information users want on their account  |
+| 3 | Start swiping for potential friends for yes and no  | To test how easy it is to swipe yes or no on other students.  |
+| 4 | Match with another student succesfully  | Is the system easy to use and find other students succesfully?  |
+| 5 | Start chatting with the other students  | The chat system is easy to use and messages are quick to deliever back and forward.  |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Create a Verified Account  | "Most accounts will email your inbox and verify your messiah email address." "There is a two-factor authentication because no one likes it. She hates switching back and forth between multiple apps" |
+| 2 | Create a Profile  | "To enter in email, major, class status, and interests" "Depending on if its compatible anaylsis. What is the algorithm? Is it like Bumble?"  |
+| 3 | Start swiping for potential friends for yes and no  | "We should be able to go backward on swiping no one someone without cost. Check yes or no on someone instead of swiping with an additional yes or no." "The two-factor swipe thing could be annoying because it's a double-check, but it could also be necessary. or an archive no-match history."  |
+| 4 | Match with another student succesfully  | "Congrats, you matched a student, and they are nice." "The only thing unexpected is the fact you actually match with someone, especially the opposite gender in a friendship setting considering Messiah’s culture."  |
+| 5 | Start chatting with the other students  | "Finding out whether or not you click, start a club. Less Bumble-like interface and more IOS Message interface. Video call in the app or send photos." "What would be frustrating would be people abusing the friendship aspect and go for hookup culture. Or people never reply after matching."  |
 
 ## Step 3.5 Findings
 Organize your findings here.
+**Three Improvements**
+1. To see if there is a way to verify the user within the app via a pop-up or some other way.
+2. Instead of throwing the "No people" into the don't show list, throw them into an archive to go back and look at.
+3. Instead of the possible swiping system, an improvement instead could be yes or no buttons with an additonal button of maybe.
+
+**Two Experiences that were benefitual**
+1. Having to create an account right away that is verified and other students are verified.
+2. The messaging system that has a good interface.
+
+**What do you believe your team did well in conducting the usability test?**
+My team (my section) did well in conducting the usability test by explaing the app before showing the steps so the test subject knows why they are taking certain steps on what system. Giving away the idea without explainging what it looks like.
+
+**What could your team improve for next time (hint: there will be a next time)?**
+An improvement for the for testing next time would be to have some visual elements or some test system to see how the user really interacts with the system. As my test subject wasn't good with hearing the description and trying to think of something as a visual learner. The steps weren't helpful without some visual of idea.
+
+**A brief statement**
+My personal experience with the usability test was not as put together as it could have been. There should be a better way to put this together in perhaps a presentation and classroom setting instead of more personal for a real idea of testing the usability. 
