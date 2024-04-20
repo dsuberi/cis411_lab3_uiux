@@ -117,11 +117,11 @@ Insert Recorded Screenshots with captions and steps.
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Interaction with Interface |
+| Description / Steps | This Use Case demonstrates the different functions that the user can perform when using the system. The user may type a prompt into the chat bot. The user may upload their own API for a custom along with existing AI's. The user is then presented with results of the different responses from the AIs. The user may remove an AI from the interface and add additional at will. |
+| Primary Actor | User |
+| Preconditions | Assume that the user has logged into the application. |
+| Postconditions | The user may view all of the different outputs from each AI simultaneously. |
 
 ## Step 3.2 Identifier a competitive product
 
@@ -133,27 +133,29 @@ List of Competitors
 5.  [GitHub Copilot](https://github.com/features/copilot)
 6.  [Chatsonic](https://writesonic.com/chat)
 7.  [Devin](https://www.cognition-labs.com/introducing-devin)
-   
+
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Define objectives | Creating objectives for the test is necessary in order to define what needs to be accomplished.  |
+| 2 | Select users | Users must not have been exposed to the software prior to testing. |
+| 3 | Create the test scenario | The test must be prepared in advance in order to evaluate its strengths and weaknesses. |
+| 4 | Conduct the test  | Self-explanatory; allow users to interact with the software. |
+| 5 | Organize feedback | Gather feedback from the users. Was the software easy to use? Was it intuitive? Was it time consuming? |
+| 5 | Report findings | Document all feedback for evaluation; check to see if any common issues occurred. |
+| 6 | Improve software | Make the necessary changes based on user feedback. |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Enter a prompt into chat box | the user easily identitiied where the chat box was and it seemed rather straight forward and simple |
+| 2 | The user uploads there own API keys for the different chatbots | This coudl be relitively difficult because these API keys are gathered from in a differnt way for each AI model so collecting them as a user could be difficult but once the user has the key from the external site entering the key into our chatbot would be easy.  |
+| 3 | View all the results from the AI's all at the same time  |  The user did have trouble seeing the everything all at once I think we could improve this by allowing users to resize windows and pin windows in order to make them more readable. |
+| 4 | The user can add and remove AI's from the interface at will | This last step allows the user to have a less cluttered user interface |
+
 
 ## Step 3.5 Findings
-Organize your findings here.
+Our main findings are that for users to use this tool effectively we will have to make some changes to the interface to have a more simplistic view while not limiting the information displayed to the user. To do this I think we should use a window system and a pinning system. Something like windows in a zoom call.
