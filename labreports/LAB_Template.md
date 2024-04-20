@@ -2,14 +2,14 @@
 ___
 **Course:** CIS 411, Spring 2024  
 **Instructor(s):** [Devi Bhakta Suberi](https://github.com/dsuberi)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
+**Name:** Colleen Miller  
+**GitHub Handle:** collmill  
+**Repository:** https://github.com/collmill/cis411_lab3_uiux.git  
 **Collaborators:**   
 ___
 
 # Step 1: Confirm Lab Setup
-- [ ] I have forked the repository and created my lab report
+- [x] I have forked the repository and created my lab report
 - [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
@@ -17,11 +17,12 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Site 1 | Score 1 | Summary 1 |
+| Indeed | 2.7 / 3 |  |
 | Site 2 | Score 2 | Summary 2 |
 
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
+![try image}(image1.png)
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
