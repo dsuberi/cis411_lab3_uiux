@@ -114,8 +114,8 @@ List of Competitors
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 | Define Objectives   |   |
-| 2 | Select Users  |   |
+| 1 | Define Objectives   | Participant verbalized understanding of the importance of setting objectives. They suggested objectives such as understanding the software's purpose, assessing its user-friendliness, and identifying any potential areas for improvement.  |
+| 2 | Select Users  | Participant understood the requirement for users who haven't used the software before. They mentioned the importance of unbiased feedback from fresh users.  |
 | 3 | Create the Test  |   |
 | 4 | Conduct the Test  |   |
 | 5 | Organize Feedback  |   |
