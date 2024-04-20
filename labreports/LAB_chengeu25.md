@@ -63,19 +63,48 @@ caption: Job listing on Proviti's website. (URL: https://roberthalf.wd1.myworkda
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3  |   |
 | **TOTAL** |  21 |   |
 
-## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
+## 2.3 Site 2 (Handshake)
+1) I have already created an account on Handshake.
+
+2) 
+<img width="1440" alt="Screenshot 2024-04-19 at 7 50 47 PM" src="https://github.com/chengeu25/cis411_lab3_uiux/assets/118132703/a7fdc123-f9d4-4194-b11d-03c957f7aef4">
+caption: The homepage has a very clean layout with good organisation of recommended employers. I like that it has the feature to attend events that are relevant to my career. I could navigate to Messiah University's resources very easily too  (URL: https://messiah.joinhandshake.com/stu)
+
+3)
+<img width="1440" alt="Screenshot 2024-04-19 at 7 53 39 PM" src="https://github.com/chengeu25/cis411_lab3_uiux/assets/118132703/d51790f7-e81c-4fc0-b3ba-5e3e711b40ad">
+caption: To navigate to my profile requires 2 clicks instead of one in LinkedIn. For this, I'm not happy about it.
+
+4)
+<img width="1440" alt="Screenshot 2024-04-19 at 7 56 35 PM" src="https://github.com/chengeu25/cis411_lab3_uiux/assets/118132703/3b651b9a-e3bb-4505-b548-90b22af2c0da">
+caption: This is the page for my profile. Looks clean and intuitive for the user to input and update job experiences, skills, and what not. (URL:https://messiah.joinhandshake.com/stu/users/34748092)
+
+5)
+<img width="1440" alt="Screenshot 2024-04-19 at 7 57 51 PM" src="https://github.com/chengeu25/cis411_lab3_uiux/assets/118132703/79db556b-6388-4432-8fbb-6b4b8f25af47">
+caption: Adding job experiences is straightforward but not as intuitive as I would have liked. I have navigate down the page to find a small button - "Add work experience". I had to look around to find that button = time wasted.
+
+6)
+<img width="1440" alt="Screenshot 2024-04-19 at 7 59 32 PM" src="https://github.com/chengeu25/cis411_lab3_uiux/assets/118132703/2d4b3648-f611-47bb-a0e7-36d837b4c1fa">
+caption: Navigating to the jobs tab was pretty straightforward and intuitive, which I like and appreciate. As you can see, the jobs that I saved were clearly listed out in a clean manner. (URL:https://messiah.joinhandshake.com/stu/saved_jobs)
+
+7)
+<img width="1440" alt="Screenshot 2024-04-19 at 8 01 56 PM" src="https://github.com/chengeu25/cis411_lab3_uiux/assets/118132703/30335607-67f8-47ac-83cd-6d430fd38919">
+caption: The job listing is very good with clear description. I just had to click on "Apply externally" to be redirected to the job site to apply. (URL: https://messiah.joinhandshake.com/stu/jobs/8653319)
+
+8)
+<img width="1440" alt="Screenshot 2024-04-19 at 8 03 21 PM" src="https://github.com/chengeu25/cis411_lab3_uiux/assets/118132703/26ffc529-3695-4f26-831a-d18f6fcb0f15">
+caption: Handshake need to do a better job in dynamically updating job listing that are already closed. LinkedIn does this well. As you can see, the job listing was already closed but it was still listed on Hadnshake. This has happened quite often. (URL: https://gsk-us-earlytalent.icims.com/jobs/search?ss=1&notFound=1&mobile=false&width=1382&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)
+
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |  |  |
-| 2. **Users are busy:** Did this site value your time?  |  |  |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |  |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 2.9 | Good but not as good as LinkedIn |
+| 2. **Users are busy:** Did this site value your time?  | 2.5 | I hads to scroll down to look for small buttons |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3 |   |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |  2.5 |   |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3  |   |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |  2.9 |   |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3  |   |
+| **TOTAL** | 16.8  |   |
 
 
 # Step 3 Competitive Usability Test
