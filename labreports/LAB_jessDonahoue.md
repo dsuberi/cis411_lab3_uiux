@@ -12,8 +12,8 @@ ___
 - [x] I have forked the repository and created my lab report
 - [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
-![alt text](1.png)
-![alt text](2.png)
+![1](https://github.com/jessDonahoue/cis411_lab3_uiux/assets/156804462/1bcfcc9b-fceb-4019-a0c3-2ebb08a66eb4)
+![2](https://github.com/jessDonahoue/cis411_lab3_uiux/assets/156804462/c352013a-b988-4435-891b-9b49702cd77c)
 
 # Step 2: Evaluate Online Job Search Sites
 
