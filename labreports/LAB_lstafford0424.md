@@ -18,7 +18,7 @@ ___
 | Site | Score | Summary |
 |---|---|---|
 | Indeed (indeed.com) | 15 | A deservedly popular job search website that is streamlined and simple in its execution of its mission. |
-| Ladders (theladders.com) | Score 2 | Summary 2 |
+| Ladders (theladders.com) | 5 | A very poor option to use for finding work, that constantly throws its "premium services" in your face upon account creation. |
 
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
