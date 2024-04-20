@@ -1,16 +1,16 @@
 # Lab Report: UX/UI
 ___
-**Course:** CIS 411, Spring 2024  
-**Instructor(s):** [Devi Bhakta Suberi](https://github.com/dsuberi)  
-**Name:** Ethan Santoro
-**GitHub Handle:** ethan-santoro
-**Repository:** https://github.com/ethan-santoro/cis411_lab3_uiux.git
-**Collaborators:**   
+**Course:** CIS 411, Spring 2024 <br>
+**Instructor(s):** [Devi Bhakta Suberi](https://github.com/dsuberi) <br>
+**Name:** Ethan Santoro <br>
+**GitHub Handle:** ethan-santoro <br>
+**Repository:** https://github.com/ethan-santoro/cis411_lab3_uiux.git <br>
+**Collaborators:** Logan Stafford, Chris Copeland
 ___
 
 # Step 1: Confirm Lab Setup
 - [x] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
@@ -78,7 +78,7 @@ The website continues to provide follow-up questions to hone in on the user's in
 | Use Case #1 | |
 |---|---|
 | Title | Interaction with Interface |
-| Description / Steps | This Use Case demonstrates the different functions that the user can perform when interacting with the system. [UC:01] The user may type a prompt into the "chat" box. [UC:02] The user may upload their own API for a custom AI. [UC:03] The user may filter results based on the different responses from the AIs. [UC:04] The user may add additional AIs to their interface. [UC:05] The user may remove an AI from the interface. |
+| Description / Steps | This Use Case demonstrates the different functions that the user can perform when interacting with the system. [REQ:01] The user may type a prompt into the "chat" box. [REQ:02] The user may upload their own API for a custom AI. [REQ:03] The user may filter results based on the different responses from the AIs. [REQ:04] The user may add additional AIs to their interface. [REQ:05] The user may remove an AI from the interface. |
 | Primary Actor | User |
 | Preconditions | Assume that the user has logged into the application. |
 | Postconditions | The user may view all of the different outputs from each AI simultaneously. |
@@ -116,3 +116,12 @@ The website continues to provide follow-up questions to hone in on the user's in
 ## Step 3.5 Findings
 
 **Improvements:** 
+1. As mentioned above, the "log in" button should be moved to a more obvious location. The participant didn't think that this was too much of an issue, but the goal of our product is to be as clear and straightforward as possible.
+2. The software's interface includes both a "light mode" and a "dark mode." In dark mode, the button to close out an AI window is slightly too dark and vice versa.
+3. The current structure for integrating a custom AI isn't intuitive enough, and could be made far more user-friendly with simplistic plugins.
+
+**Experiences:**
+1. A simple interface. The software's interface is similar to that of ChatGPT, making it easy for a user to ask any question through an obvious search bar.
+2. The potential to add additional AI. Although this function wasn't a part of the test, our participant thought that the future inclusion of this feature would be of great benefit.
+
+Generally, our team did well  when conducting the usability test. We encouraged participants to explore the software, and allowed them to interact with it at their own pace. There was no interference from any staff members, fully allowing the users to immerse themselves in the experience. However, we would like to be more meticulous when collecting feedback. After the test had been completed, this process took the form of a closed-ended questionnaire. As evaluators that are seeking to improve the software, we believe that trial users should be allowed to fully express their opinions.
