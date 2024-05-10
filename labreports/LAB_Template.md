@@ -2,26 +2,26 @@
 ___
 **Course:** CIS 411, Spring 2024  
 **Instructor(s):** [Devi Bhakta Suberi](https://github.com/dsuberi)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
+**Name:** Phillip Swann 
+**GitHub Handle:** 4saken 
 **Repository:** Your Forked Repository  
 **Collaborators:**   
 ___
 
 # Step 1: Confirm Lab Setup
-- [ ] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [x] I have forked the repository and created my lab report
+- [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Site 1 | Score 1 | Summary 1 |
-| Site 2 | Score 2 | Summary 2 |
+| LinkedIn | 9/10 | The site was well organized, condensed while still being readable. I have been on LinkdIn before so I am somewhat familiar with the format but it is a nice touch that for incomplete profiles they give you a "nudge" to complete it in a non-intrusive way |
+| Indeed | 8/10  | The login was typical of any site. However for creating a password it was clear that it was desired for them to have you connect your google account as opposed to making a separated account. Inserting job listings were easy on the surface however there was practically nothing for cybersecurity or computer science. Applying for a jo however had a nice touch where clicking apply it opened a new tab. Overall good experience |
 
 ## 2.2 Site 1
-Insert Recorded Screenshots with captions and steps.
+
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
