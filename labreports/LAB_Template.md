@@ -75,41 +75,52 @@ Screenshots
 
 # Step 3 Competitive Usability Test
 
+
 ## Step 3.1 Product Use Case
 
-| Use Case #1 | |
+| Use Case #1 | Budget Tracking and Expense Management |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Budget Tracking and Expense Management |
+| Description / Steps | (Outlined previously) |
+| Primary Actor | User |
+| Preconditions | User has access to the budget tracking application. |
+| Postconditions | User successfully tracks expenses and manages their budget. |
 
-## Step 3.2 Identifier a competitive product
+## Step 3.2 Identify a Competitive Product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 [Mint ](https://mint.intuit.com/)
+2. Competitor 2 [Rocket Money](https://www.rocketmoney.com/)
 
-## Step 3.3 Write a Useability Test
+## Step 3.3 Write a Usability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Set up a budget for the current month in Competitor 1's platform. | Record time taken and any difficulties encountered. |
+| 2 | Record at least three expenses under different categories in Competitor 1's platform. | Note the ease of expense recording and categorization options. |
+| 3 | Explore additional features like budget monitoring and expense analysis in Competitor 1's platform. | Observe user interaction with advanced functionalities. |
+| 4 | Repeat steps 1-3 for Competitor 2's platform. | Compare user experiences between the two competitors. |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Setting up budget in Competitor 1's platform | Participant found the setup process intuitive and straightforward. |
+| 2 | Recording expenses in Competitor 1's platform | Participant encountered slight difficulty in manually categorizing expenses but managed to complete the task. |
+| 3 | Exploring additional features in Competitor 1's platform | Participant was impressed with the variety of features available for budget monitoring and analysis. |
+| 4 | Repeat steps 1-3 for Competitor 2's platform | Participant struggled with setting up budget initially but found the interface visually appealing. |
+| 5 | Recording expenses in Competitor 2's platform | Participant appreciated the simplicity of recording expenses and the option to add memos for better tracking. |
+| 6 | Exploring additional features in Competitor 2's platform | Participant found the budgeting philosophy of Competitor 2 intriguing and liked the emphasis on available funds. |
 
 ## Step 3.5 Findings
-Organize your findings here.
+
+### Competitor 1 (Rocket Money)
+- Intuitive setup process.
+- Slight difficulty in manual expense categorization.
+- Impressive range of features for budget monitoring and analysis.
+
+### Competitor 2 (Mint)
+- Visually appealing interface.
+- Initial struggle with setting up budget.
+- Simple expense recording with options for memo addition.
+- Intriguing budgeting philosophy focusing on available funds.
