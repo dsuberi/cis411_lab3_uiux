@@ -17,8 +17,8 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| LinkedIn | 9/10 | The site was well organized, condensed while still being readable. I have been on LinkdIn before so I am somewhat familiar with the format but it is a nice touch that for incomplete profiles they give you a "nudge" to complete it in a non-intrusive way |
-| Indeed | 8/10  | The login was typical of any site. However for creating a password it was clear that it was desired for them to have you connect your google account as opposed to making a separated account. Inserting job listings were easy on the surface however there was practically nothing for cybersecurity or computer science. Applying for a jo however had a nice touch where clicking apply it opened a new tab. Overall good experience |
+| Indeed| 16/20 | The login was typical of any site. However for creating a password it was clear that it was desired for them to have you connect your google account as opposed to making a separated account. Inserting job listings were easy on the surface however there was practically nothing for cybersecurity or computer science. Applying for a jo however had a nice touch where clicking apply it opened a new tab. Overall good experience |
+| LinkedIn | 19/20  | The site was well organized, condensed while still being readable. I have been on LinkdIn before so I am somewhat familiar with the format but it is a nice touch that for incomplete profiles they give you a "nudge" to complete it in a non-intrusive way |
 
 ## 2.2 Site 1
 Screenshots 
