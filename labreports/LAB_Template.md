@@ -37,6 +37,8 @@ ___
 ## 2.3 Site 2
 Insert Recorded Screenshots with captions and steps.
 
+![Image 1](Images/1.png)
+
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? |   |   |
