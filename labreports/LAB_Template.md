@@ -21,18 +21,30 @@ ___
 | Indeed | 8/10  | The login was typical of any site. However for creating a password it was clear that it was desired for them to have you connect your google account as opposed to making a separated account. Inserting job listings were easy on the surface however there was practically nothing for cybersecurity or computer science. Applying for a jo however had a nice touch where clicking apply it opened a new tab. Overall good experience |
 
 ## 2.2 Site 1
+Screenshots 
+
+![Image 12](Images/13.png)
+![Image 13](Images/14.png)
+![Image 14](Images/15.png)
+![Image 15](Images/16.png)
+![Image 16](Images/17.png)
+![Image 17](Images/18.png)
+![Image 19](Images/20.png)
+![Image 21](Images/22.png)
+![Image 22](Images/23.png)
+
 
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 2  |  The site was passable, some things however could have been more intuitive. |
+| 2. **Users are busy:** Did this site value your time?  | 2  | Not clear advertisements however popups which were essentially useless.  |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 1  |  There were multiple times where I was stopped due to the language used. Instead of saying something is necessarry before continuing it simply say's that it needs to be done with no time context. |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 2  | It did what I believe could have been it's best to lead me to where I would have liked to have been. It still did guide me into the general topic.   |
+| 5. **Omit Words:** How careful was this site with its use of copy? |  3 |  I see no over-usage of words or jargon within my navigational experience on the site |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |  3 | Straightforward, At least for onboarding most steps are right after the other.  |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  3 |  The buttons do seem slightly larger and would not pose as much of a problem for touchscreen users  |
+| **TOTAL** |  16  |  |
 
 ## 2.3 Site 2
 Screenshots
@@ -58,7 +70,7 @@ Screenshots
 | 5. **Omit Words:** How careful was this site with its use of copy? |  2 | It can be argued that some things could have been more designed, but it's simply the nature of the site.  |
 | 6. **Navigation:** How effective was the workflow / navigation of the site? |  3 |  Smooth, I can recall no hiccups during browsing  |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  2  | Perhaps the styling is set to automatically be larger when a touch screen is in use, however I feel as if the buttons in the current state may be too small to not have a finger cover them.  |
-| **TOTAL** |   |   |
+| **TOTAL** | 19   |   |
 
 
 # Step 3 Competitive Usability Test
