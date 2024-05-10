@@ -35,19 +35,29 @@ ___
 | **TOTAL** |   |   |
 
 ## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
+Screenshots
 
-![Image 1](Images/1.png)
+![Image 1](Images/2.png)
+![Image 2](Images/3.png)
+![Image 3](Images/4.png)
+![Image 4](Images/5.png)
+![Image 5](Images/6.png)
+![Image 6](Images/7.png)
+![Image 7](Images/8.png)
+![Image 8](Images/9.png)
+![Image 9](Images/10.png)
+![Image 10](Images/11.png)
+![Image 11](Images/12.png)
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
+| 1. **Don't make me think:** How intuitive was this site? |  3 |  It was a very streamlined experience with no unecessary pop-ups |
+| 2. **Users are busy:** Did this site value your time?  |  3  | Through the entire process there was only 1 pop-up and it was meant to help you as opposed to an advetisment or a "suggestion" to look at another part of the site.   |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |  3 | Elements that the site wantd you to look at were always different in colour scheme. Example being the job listing portion.  |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3  |  Yes it did, It didn't stray far from the job I had inserted into the search bar. |
+| 5. **Omit Words:** How careful was this site with its use of copy? |  2 | It can be argued that some things could have been more designed, but it's simply the nature of the site.  |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |  3 |  Smooth, I can recall no hiccups during browsing  |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  2  | Perhaps the styling is set to automatically be larger when a touch screen is in use, however I feel as if the buttons in the current state may be too small to not have a finger cover them.  |
 | **TOTAL** |   |   |
 
 
